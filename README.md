@@ -1,3 +1,15 @@
+### 简单记账APP
+
+一款简单的记账软件，包括后端代码和前端代码，后端是基于SpringBoot开发，前端基于uni-app。
+
+整个软件功能很简单，数据库表就4张。麻雀虽小，但五脏俱全，适合在校大学生或者刚入门java后端开发的程序员学习。
+
+前端代码：https://github.com/tigerleeli/money-keep-app
+
+后端代码：https://github.com/tigerleeli/money-keep
+
+
+### 演示界面
 
 ### DDL
 先创建数据库 ***money_keep***，然后执行如下sql。
